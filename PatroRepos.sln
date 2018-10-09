@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatroRepos", "PatroRepos\PatroRepos.csproj", "{AABBF6D1-75C0-46A1-8CCA-91749377E747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatroReposTests", "PatroReposTests\PatroReposTests.csproj", "{ED0DC2E2-CF9E-4B8A-B6D2-8990682112AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AABBF6D1-75C0-46A1-8CCA-91749377E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AABBF6D1-75C0-46A1-8CCA-91749377E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AABBF6D1-75C0-46A1-8CCA-91749377E747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0DC2E2-CF9E-4B8A-B6D2-8990682112AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0DC2E2-CF9E-4B8A-B6D2-8990682112AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0DC2E2-CF9E-4B8A-B6D2-8990682112AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0DC2E2-CF9E-4B8A-B6D2-8990682112AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
